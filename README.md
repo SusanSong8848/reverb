@@ -13,6 +13,7 @@
 # 正文：
 ## 1.把一个.m4a文件转换为.wav文件：
   借助 __ezyZip__(https://www.ezyzip.com/convert-m4a-to-wav-online.html)：一个值得推荐的在线工具，它在你的浏览器里就能完成转换，不需要把文件上传到服务器，对隐私保护更好。
+  -  __ezyZip还可以转换任何一种格式，见(https://www.ezyzip.com/zh-hans.html)__  
 - 1.点击Select M4A file to convert，并选择所要转换格式的.m4a音频文件:  
 ![alt text](imgs/2.png)
 
