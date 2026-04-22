@@ -1,5 +1,5 @@
 # 这是一个给.wav音频文件加混响滤镜的方法(基于Java)
-- （由我的完成的Java作业启发，具体作业可见https://github.com/ecnu-oop-java/ecnu-oop-java-up/blob/main/projects/use_data_types/audio_processing/README.md）
+- （由我的完成的Java作业启发，具体作业可见 [hw（可点击）](docs/hw.md)）
 - 这是其中的第9题
 ![alt text](imgs/1.png)
 ##
